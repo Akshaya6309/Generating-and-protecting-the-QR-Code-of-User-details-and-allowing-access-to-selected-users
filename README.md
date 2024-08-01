@@ -1,0 +1,1 @@
+# Generating-and-protecting-the-QR-Code-of-User-details-and-allowing-access-to-selected-users
